@@ -22,7 +22,7 @@ This Jupyter Notebook, `Sales Department.ipynb`, contains data analysis and visu
 ## Data Sources
 
 - `store.csv`: Contains various metrics and data points related to the store's activities.
-- `train.csv`: Contains training data for predictive analysis.
+- `train.csv`: Contains training data for predictive analysis. (can be found at https://www.kaggle.com/c/rossmann-store-sales/data)
 
 ## How to Run
 
