@@ -8,7 +8,7 @@ This Jupyter Notebook, `Product Price Forecasting.ipynb`, contains data analysis
    - Overview of the product price forecasting problem and the objectives of the analysis.
 
 2. **Data Loading and Preprocessing**
-   - Steps to load and preprocess the data from `Product Price Forecasting.csv`.
+   - Steps to load and preprocess the data from `store.csv` & `train.csv`.
 
 3. **Exploratory Data Analysis (EDA)**
    - Summary statistics and visualizations to understand the data distribution and key metrics.
@@ -17,7 +17,7 @@ This Jupyter Notebook, `Product Price Forecasting.ipynb`, contains data analysis
    - Decomposing the time series data into trend, seasonality, and residual components.
 
 5. **Model Training and Evaluation**
-   - Training time series forecasting models (e.g., ARIMA, Prophet) to predict future product prices and evaluating their performance.
+   - Training time series forecasting models (e.g., ARIMA, Prophet) to predict future product prices and evaluate their performance.
 
 6. **Forecasting Future Prices**
    - Using the trained models to forecast future product prices and visualize the results.
@@ -27,7 +27,8 @@ This Jupyter Notebook, `Product Price Forecasting.ipynb`, contains data analysis
 
 ## Data Source
 
-- `Product Price Forecasting.csv`: Contains historical product price data with timestamps.
+- `store.csv`
+- `train.csv`
 
 ## How to Run
 
