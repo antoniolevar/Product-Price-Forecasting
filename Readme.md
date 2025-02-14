@@ -29,6 +29,7 @@ This Jupyter Notebook, `Product Price Forecasting.ipynb`, contains data analysis
 
 - `store.csv`
 - `train.csv`
+https://www.kaggle.com/c/rossmann-store-sales/data
 
 ## How to Run
 
